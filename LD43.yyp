@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "46ec8a3a-5030-4e23-b8cc-daaf373e5319",
+            "Value": {
+                "id": "324b51f3-3558-4b66-b3ea-3e0d62788210",
+                "resourcePath": "objects\\objTile\\objTile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5d24b0ea-0140-4c40-ab8b-d878925cf695",
             "Value": {
                 "id": "8de89f05-8232-4fae-b677-5a0ce4c9cb8b",
@@ -84,6 +92,14 @@
                 "id": "5b056cbb-554d-4487-83d2-347efbc33b75",
                 "resourcePath": "views\/6d1ce783-339f-4bab-9c45-24ca19679ac5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6d7c1fc1-3f41-4886-85eb-73d390830ccf",
+            "Value": {
+                "id": "a37bd852-e858-403f-b935-6df44691591e",
+                "resourcePath": "sprites\\sprIntern\\sprIntern.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -132,6 +148,14 @@
                 "id": "d1e4de39-4530-478c-a4aa-62b7e3afa001",
                 "resourcePath": "views\/9436aaf0-f5bb-4d42-b46d-fb1d70c64841.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9da28e6f-07c4-4223-a36b-927d0981bf51",
+            "Value": {
+                "id": "93c8eb10-3d9b-434a-910e-419680cd8a34",
+                "resourcePath": "objects\\objInternControl\\objInternControl.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -228,6 +252,14 @@
                 "id": "7cac2033-c2b4-45b3-aa82-0caf94ffa032",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fa8f6fab-201e-48db-b565-83c92a58e82c",
+            "Value": {
+                "id": "68712922-5801-4c60-8ce9-2f18a04c218d",
+                "resourcePath": "objects\\objIntern\\objIntern.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
