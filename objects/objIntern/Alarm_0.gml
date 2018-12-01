@@ -10,16 +10,15 @@ dirUp = 0;
 */
 
 if (r < grid[xc, yc].dirRight) {
-  
   xc += 1;
-  show_debug_message("moving right?")
-
 } else if (r < grid[xc, yc].dirLeft) {
   xc -= 1;
 } else if (r < grid[xc, yc].dirDown) {
   yc += 1;
 } else if (r < grid[xc, yc].dirUp) {
   yc -= 1;
+} else {
+  scrKillIntern(self.id); 
 }
 
 if (xc > objGameControl.rows - 1) {

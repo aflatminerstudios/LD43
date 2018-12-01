@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "6436b875-6a3f-46cb-8bc1-c071e409f866",
+            "Value": {
+                "id": "abda83ff-72eb-4970-b23a-ff6189a855f4",
+                "resourcePath": "scripts\\scrKillIntern\\scrKillIntern.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6805c7ab-690d-4ebd-9cb8-9b9b50380d62",
+            "Value": {
+                "id": "98892b3a-1870-4b6c-a0b7-05dbaff05af8",
+                "resourcePath": "rooms\\roomTitle\\roomTitle.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6d1ce783-339f-4bab-9c45-24ca19679ac5",
             "Value": {
                 "id": "5b056cbb-554d-4487-83d2-347efbc33b75",
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "edfd4936-bfb5-4b9f-adee-da1aed57bc65",
+            "Value": {
+                "id": "f5e665b2-563d-432c-b706-c96e892c312b",
+                "resourcePath": "rooms\\roomLevel1\\roomLevel1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ee005443-f5c8-4fcf-b4e4-42d9974d2a19",
             "Value": {
                 "id": "115294ce-10da-4833-a39e-8ed239dbb12f",
@@ -264,7 +288,7 @@
         }
     ],
     "script_order": [
-        
+        "6436b875-6a3f-46cb-8bc1-c071e409f866"
     ],
     "tutorial": ""
 }

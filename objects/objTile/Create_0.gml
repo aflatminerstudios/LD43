@@ -14,7 +14,6 @@ tileY = 80;
 
 dirLeft = 0.1;
 dirRight = 0.5;
-dirDown = 0.9;
-dirUp = 1.0;
-
-killChance = 0;
+dirDown = 0.8;
+dirUp = 0.9;
+killChance = 1.0;

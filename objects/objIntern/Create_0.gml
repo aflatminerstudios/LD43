@@ -6,5 +6,6 @@ yc = 0;
 parent = noone;
 walk_speed = 0.5;
 grid = noone;
+dying = false;
 
 alarm[0] = room_speed * walk_speed;
