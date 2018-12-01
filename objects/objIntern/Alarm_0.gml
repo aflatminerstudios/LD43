@@ -22,13 +22,17 @@ if (r < grid[xc, yc].dirRight) {
   yc -= 1;
 }
 
-if (xc > objGameControl.rows - 1)
+if (xc > objGameControl.rows - 1) {
   xc = objGameControl.rows - 1;
-if (yc > objGameControl.columns - 1)
+}
+if (yc > objGameControl.columns - 1) {
   yc = objGameControl.columns - 1;
-if (xc < 0)
+}
+if (xc < 0) {
   xc = 0;
-if (yc < 0)
+}
+if (yc < 0) {
   yc = 0;
+}
 
 alarm[0] = room_speed * walk_speed;
