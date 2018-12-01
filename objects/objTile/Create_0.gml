@@ -6,7 +6,7 @@ yc = 0;
 tiles = noone;
 
 minSpotX = 0;
-minSpotY = 0
+minSpotY = 0;
 
 
 tileX = 80;

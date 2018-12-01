@@ -11,27 +11,28 @@ dirUp = 0;
 
 if (r < grid[xc, yc].dirRight) {
   xc += 1;
+  if (xc > objGameControl.rows - 1) {
+    xc = objGameControl.rows - 1;
+  }
 } else if (r < grid[xc, yc].dirLeft) {
   xc -= 1;
+  if (xc < 0) {
+    xc = 0;
+  }
 } else if (r < grid[xc, yc].dirDown) {
   yc += 1;
+  if (yc > objGameControl.columns - 1) {
+    yc = objGameControl.columns - 1;
+  }
 } else if (r < grid[xc, yc].dirUp) {
   yc -= 1;
+  if (yc < 0) {
+    yc = 0;
+  }
 } else {
   scrKillIntern(self.id); 
 }
 
-if (xc > objGameControl.rows - 1) {
-  xc = objGameControl.rows - 1;
-}
-if (yc > objGameControl.columns - 1) {
-  yc = objGameControl.columns - 1;
-}
-if (xc < 0) {
-  xc = 0;
-}
-if (yc < 0) {
-  yc = 0;
-}
+
 
 alarm[0] = room_speed * walk_speed;
