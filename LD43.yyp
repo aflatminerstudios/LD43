@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "6adaf223-a5e4-4c9f-9790-306f41e5266b",
+            "Value": {
+                "id": "a953c245-da70-44fb-9b74-b5dfd22a8e8b",
+                "resourcePath": "sprites\\sprRunButtonDown\\sprRunButtonDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d1ce783-339f-4bab-9c45-24ca19679ac5",
             "Value": {
                 "id": "5b056cbb-554d-4487-83d2-347efbc33b75",
@@ -708,6 +716,14 @@
                 "id": "6c71f184-e753-4f80-8659-597a0a746c80",
                 "resourcePath": "objects\/objSwitchGround\/objSwitchGround.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8500633a-e2d4-417d-9a07-b3e1802093e6",
+            "Value": {
+                "id": "e16b599a-22ba-4b06-a202-3eb1c1c9388c",
+                "resourcePath": "sprites\\sprRunButtonUp\\sprRunButtonUp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1028,6 +1044,14 @@
                 "id": "aa1a4c56-a201-499a-8fde-04ade707c3d9",
                 "resourcePath": "views\/b6941cdd-1649-4ec7-b158-460fe13c04c6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6f72056-798b-47e9-b1f3-8025ee441049",
+            "Value": {
+                "id": "1d2a54e8-cccc-4f3d-aabe-bca7c66e54f6",
+                "resourcePath": "objects\\sprRunButton\\sprRunButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
