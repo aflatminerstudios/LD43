@@ -17,4 +17,4 @@ useAutoPressAnimation = false;
 
 // This will run when the button is released/unpressed/touch up
 // Running on the release feels better than on initial press for most buttons
-unpressedScript = scrNullScript; // Your button click script goes here
+unpressedScript = scrSpawnIntern; // Your button click script goes here
