@@ -999,6 +999,14 @@
             }
         },
         {
+            "Key": "cc481fd0-3262-49aa-884b-8f943f012bec",
+            "Value": {
+                "id": "d8b36d72-3804-4b9d-9960-14945b1d7758",
+                "resourcePath": "objects\\objScoreKeeper\\objScoreKeeper.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a3942c3e-6d65-44c8-8fba-e967a18d12c4",
