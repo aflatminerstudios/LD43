@@ -4,17 +4,17 @@
 var r = random(1);
 
 var oldPosition = [xc, yc]
-if (r <= grid[xc, yc].killChance) {
+if (r < grid[xc, yc].killChance) {
 	scrKillIntern(self.id);
-} else if (r < grid[xc, yc].dirRight) {
-  xc += 1;
-  if (xc > GRID_COLUMNS - 1) {
-    xc = GRID_COLUMNS - 1;
-  }
 } else if (r < grid[xc, yc].dirLeft) {
   xc -= 1;
   if (xc < 0) {
     xc = 0;
+  }
+} else if (r < grid[xc, yc].dirRight) {
+  xc += 1;
+  if (xc > GRID_COLUMNS - 1) {
+    xc = GRID_COLUMNS - 1;
   }
 } else if (r < grid[xc, yc].dirDown) {
   yc += 1;

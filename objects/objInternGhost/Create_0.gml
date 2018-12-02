@@ -5,5 +5,5 @@
 event_inherited();
 
 direction = 90;
-speed = 0.5;
+speed = 1.5;
 timeToLive = 2.0*room_speed

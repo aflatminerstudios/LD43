@@ -10,9 +10,9 @@ for (var i = 0; i < GRID_COLUMNS; i++) {
     if (i == 3 && j == 5)
       tile = instance_create_layer(i, j, "Tiles", objTilePitTrap);      
     else
-      tile = instance_create_layer(i, j, "Tiles", choose(objTileNorthSouth, objTileWestEast));
-		tile.x = GRID_X+i*GRID_CELL_WIDTH;
-		tile.y = GRID_Y+j*GRID_CELL_HEIGHT;
+      tile = instance_create_layer(i, j, "Tiles", choose(objTilePitTrap, objTileNorthSouth, objTileWestEast, objTileNorthWest, objTileNorthEast, objTileSouthWest, objTileSouthEast));
+		tile.x = GRID_X+i*GRID_CELL_WIDTH + GRID_CELL_WIDTH/2;
+		tile.y = GRID_Y+j*GRID_CELL_HEIGHT + GRID_CELL_HEIGHT/2;
 		
     grid[i, j] = tile;
     tile.xc = i;

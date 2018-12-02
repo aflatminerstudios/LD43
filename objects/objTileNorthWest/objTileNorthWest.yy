@@ -1,31 +1,31 @@
 {
-    "id": "4538b448-edda-48cf-a0af-83d0d7b19072",
+    "id": "da4d7b51-2934-4b13-affc-f102084635cc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objTileNorthSouth",
+    "name": "objTileNorthWest",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "de4e27c7-fa9a-4530-a570-411825a27fc5",
+            "id": "656146ee-a664-45f0-b2d9-3952882402c1",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "46ec8a3a-5030-4e23-b8cc-daaf373e5319",
             "propertyId": "27030905-8594-49bd-b144-d7f559ab7862",
-            "value": "0"
+            "value": "0.5"
         },
         {
-            "id": "002651e9-f70f-4097-bce1-d1ae5d85cb70",
+            "id": "731404d7-fb16-449c-96f3-20fc90f19e65",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "46ec8a3a-5030-4e23-b8cc-daaf373e5319",
             "propertyId": "5cc2c2ae-51aa-47d2-9b74-9644a13a46b0",
-            "value": "0"
+            "value": "0.5"
         },
         {
-            "id": "8fe91b83-cf18-4e5e-b5cc-e2e77c2526e1",
+            "id": "ed02f7e2-1ef5-42dd-a2c1-4cb0b5e09845",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "46ec8a3a-5030-4e23-b8cc-daaf373e5319",
@@ -47,10 +47,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "bb3e8a5a-43d6-4217-95b0-a43720a802c7",
+    "spriteId": "34823e09-a618-438c-ab1f-45172b951834",
     "visible": true
 }

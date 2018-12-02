@@ -3,8 +3,8 @@
 
 var tile = grid[xc, yc];
 
-x = tile.x
-y = tile.y
+x = tile.x + xOffset
+y = tile.y + yOffset
 
 //x = tile.minSpotX + xc * tile.tileX + tile.tileX / 2;
 //y = tile.minSpotY + yc * tile.tileY + tile.tileY/ 2;
