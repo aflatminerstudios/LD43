@@ -3,16 +3,13 @@
 
 var r = random(1);
 
-/*dirLeft = 0;
-dirRight = 0;
-dirDown = 0;
-dirUp = 0;
-*/
-
-if (r < grid[xc, yc].dirRight) {
+var oldPosition = [xc, yc]
+if (r <= grid[xc, yc].killChance) {
+	scrKillIntern(self.id);
+} else if (r < grid[xc, yc].dirRight) {
   xc += 1;
-  if (xc > objGameControl.rows - 1) {
-    xc = objGameControl.rows - 1;
+  if (xc > GRID_COLUMNS - 1) {
+    xc = GRID_COLUMNS - 1;
   }
 } else if (r < grid[xc, yc].dirLeft) {
   xc -= 1;
@@ -21,18 +18,16 @@ if (r < grid[xc, yc].dirRight) {
   }
 } else if (r < grid[xc, yc].dirDown) {
   yc += 1;
-  if (yc > objGameControl.columns - 1) {
-    yc = objGameControl.columns - 1;
+  if (yc > GRID_ROWS - 1) {
+    yc = GRID_ROWS - 1;
   }
 } else if (r < grid[xc, yc].dirUp) {
   yc -= 1;
   if (yc < 0) {
     yc = 0;
   }
-} else {
-  scrKillIntern(self.id); 
 }
 
-
+show_debug_message(string(oldPosition[0]) + string(oldPosition[1]) + "->" + string(xc) + string(yc));
 
 alarm[0] = room_speed * walk_speed;

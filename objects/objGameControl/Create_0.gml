@@ -1,20 +1,19 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-randomize();
-
-rows = 10;
-columns = 10;
-
 grid[0, 0] = 0;
 
-for (var i = 0; i < rows; i++) {
-  for (var j = 0; j < columns ; j++) {  
+// Find the tiles in the room and assign them to the grid
+for (var i = 0; i < GRID_COLUMNS; i++) {
+  for (var j = 0; j < GRID_ROWS ; j++) {  
     var tile;
-    if (i == 5 && j == 5)
-      tile = instance_create_depth(i, j, 0, objDeadlyTrap);      
+    if (i == 3 && j == 5)
+      tile = instance_create_layer(i, j, "Tiles", objTilePitTrap);      
     else
-      tile = instance_create_depth(i, j, 0, objTile);      
+      tile = instance_create_layer(i, j, "Tiles", choose(objTileNorthSouth, objTileWestEast));
+		tile.x = GRID_X+i*GRID_CELL_WIDTH;
+		tile.y = GRID_Y+j*GRID_CELL_HEIGHT;
+		
     grid[i, j] = tile;
     tile.xc = i;
     tile.yc = j;

@@ -8,12 +8,15 @@ tiles = noone;
 minSpotX = 0;
 minSpotY = 0;
 
-
 tileX = 80;
 tileY = 80;
 
+// Moved to "Variable Definitions"
+/*
 dirLeft = 0.1;
 dirRight = 0.5;
 dirDown = 0.8;
 dirUp = 0.9;
 killChance = 1.0;
+*/
+

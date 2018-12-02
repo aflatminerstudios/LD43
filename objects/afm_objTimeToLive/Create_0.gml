@@ -7,4 +7,4 @@ timeToLive = 1.0*room_speed;
 needsSetup = true; 
 
 // uses alarm[11] for self-destruct
-alarm[11] = timeToLive;
+//alarm[11] = timeToLive;
