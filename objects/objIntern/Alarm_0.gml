@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 var r = random(1);
-show_debug_message(r);
+
 /*dirLeft = 0;
 dirRight = 0;
 dirDown = 0;

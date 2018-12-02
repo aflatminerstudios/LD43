@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "75b4449d-f754-4d58-93c7-29aff7588321",
+            "Value": {
+                "id": "06e34534-d2b4-463e-941b-29c3bd891169",
+                "resourcePath": "views\\75b4449d-f754-4d58-93c7-29aff7588321.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "76d183e6-3f11-4db6-9718-c3e68aab31fe",
             "Value": {
                 "id": "d8e4da5f-84fd-445f-9baa-84945dc8f03e",
@@ -156,6 +164,14 @@
                 "id": "8182348c-f911-4439-b6a3-0b7c135f0dd3",
                 "resourcePath": "options\/ios\/options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "85d460d8-e610-4fd3-b64b-27f8b087e0db",
+            "Value": {
+                "id": "dd3abcf9-e1fc-4adc-ae33-8a91cdfafa31",
+                "resourcePath": "views\\85d460d8-e610-4fd3-b64b-27f8b087e0db.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

@@ -17,3 +17,5 @@ dirRight = 0.0;
 dirDown = 0.0;
 dirUp = 0.0;
 killChance = 1.0;
+
+show_debug_message("Creating trap");
