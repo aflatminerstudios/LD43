@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1a999c58-7fb4-49ab-8564-e1a76159eac6",
+            "Value": {
+                "id": "05e61a0c-79d7-4d36-8ecd-76b15f98f2dc",
+                "resourcePath": "objects\\objRightExit\\objRightExit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2b7b8ad4-a319-4abd-bfe4-d5ba81218fd9",
             "Value": {
                 "id": "a2f02e39-b9ba-43fc-923b-c3d121f9c44e",

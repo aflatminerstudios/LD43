@@ -1,9 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-spawnTime = 0.10;
-grid = noone;
 xc = 0;
 yc = 0;
 
-alarm[0] = spawnTime * room_speed;
+dirLeft = 0.0;
+dirRight = 1.0;
+dirDown = 0.0;
+dirUp = 0.0;
+killChance = 0.0;
