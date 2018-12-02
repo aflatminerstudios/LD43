@@ -16,4 +16,8 @@ with(objGameControl) {
 	    tile.yc = j;
 	  }
 	}
+  
 }
+
+//Sets pits to proper sprites
+scrSetPitSprites();
