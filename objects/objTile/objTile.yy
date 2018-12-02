@@ -27,7 +27,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "513681fc-97a9-438f-9274-b08f51ca4599",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -111,32 +111,6 @@
             "value": "0",
             "varName": "killChance",
             "varType": 0
-        },
-        {
-            "id": "b62fbfde-1b5d-4311-a359-5302f24a3646",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": [
-                "\"None\"",
-                "\"1\"",
-                "\"2\"",
-                "\"3\"",
-                "\"4\"",
-                "\"5\"",
-                "\"6\"",
-                "\"7\"",
-                "\"8\"",
-                "\"9\"",
-                "\"10\""
-            ],
-            "multiselect": true,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "\"None\"",
-            "varName": "switchID",
-            "varType": 6
         }
     ],
     "solid": false,
