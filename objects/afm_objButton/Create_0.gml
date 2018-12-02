@@ -3,6 +3,11 @@
 
 /// Public variables (sprites, sound, scripts)
 
+// Slideover = ability to tap outside the button and slide into it to activate a press
+// Like running your finger across piano keys
+// Most buttons will not want this
+allowSlideOver = false;
+
 isPressed = false;
 
 // Sprites
