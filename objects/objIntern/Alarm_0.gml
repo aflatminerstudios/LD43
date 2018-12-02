@@ -28,6 +28,4 @@ if (r < grid[xc, yc].killChance) {
   }
 }
 
-show_debug_message(string(oldPosition[0]) + string(oldPosition[1]) + "->" + string(xc) + string(yc));
-
 alarm[0] = room_speed * walk_speed;
