@@ -31,12 +31,6 @@ with (objGameControl) {
           right = true; 
         } 
 
-      
-      
-        if (i == 3 && j == 0) {
-          show_debug_message("here"); 
-        }
-      
         if (top && bottom && left && right)
           tile.sprite_index = sprPitEmpty;
         else if (top && !bottom && !left && !right)

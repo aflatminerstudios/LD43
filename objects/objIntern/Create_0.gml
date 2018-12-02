@@ -23,3 +23,6 @@ alarm[0] = room_speed * checkTime;
 
 //This controls whether character is actively walking between tiles
 walking = false;
+
+//Is the character's target tile the goal
+targetGoal = false;
