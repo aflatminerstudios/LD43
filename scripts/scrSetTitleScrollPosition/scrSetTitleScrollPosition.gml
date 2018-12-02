@@ -21,3 +21,9 @@ with(objTitleParallaxForeground) {
 }
 
 
+with(objStaticBackground) {
+	var extraForegroundWidth = sprite_width - room_width;
+	var xx = lerp(0, -extraForegroundWidth, percentFromLeft)
+	x = xx;
+	// Post-jam To Do -- Support multiple layers, based on their size using the calculations above
+}

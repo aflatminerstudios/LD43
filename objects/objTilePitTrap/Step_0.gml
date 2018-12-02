@@ -15,10 +15,10 @@ for(var i = 0; i < array_length_1d(switchID); i++) {
 
 if(oldIsDeactivated != newIsDeactivated) {
 	if(newIsDeactivated) {
-		myBridge = instance_create_layer(x, y, self.layer, self.bridgeType);
+		myBridge = instance_create_layer(x, y, "Bridges", self.bridgeType);
 	} else {
 		if(myBridge != noone) {
-			instance_create_layer(x, y, self.layer, self.bridgeTypeDown);
+			instance_create_layer(x, y, "Bridges", self.bridgeTypeDown);
 			instance_destroy(myBridge);
 			myBridge = noone;
 		}

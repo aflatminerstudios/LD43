@@ -3,12 +3,23 @@
 
 xc = 0;
 yc = 0;
+
+
 parent = noone;
-walk_speed = 0.5;
+checkTime = 0.5;
+walkSpeed = 1;
 grid = noone;
+//This currently means walking into an instant-death square
 dying = false;
 
 xOffset = irandom_range(-20, 20);
 yOffset = irandom_range(-20, 20);
 
-alarm[0] = room_speed * walk_speed;
+//For moving
+xPrevious = 0;
+yPrevious = 0;
+
+alarm[0] = room_speed * checkTime;
+
+//This controls whether character is actively walking between tiles
+walking = false;
