@@ -28,35 +28,3 @@ if (r < grid[xc, yc].killChance) {
   }
 }
 
-
-/*
-else if (r < grid[xc, yc].dirLeft) {
-  xc -= 1;
-  if (xc - 1 >= 0) {
-    xc = 0;
-  } else {
-    scrChangeTiles(self.id, xc - 1, yc);
-  }
-} else if (r < grid[xc, yc].dirRight) {
-  xc += 1;
-  if (xc > GRID_COLUMNS - 1) {
-    xc = GRID_COLUMNS - 1;
-  }
-  scrChangeTiles(self.id, xc + 1, yc);
-} else if (r < grid[xc, yc].dirDown) {
-  yc += 1;
-  if (yc > GRID_ROWS - 1) {
-    yc = GRID_ROWS - 1;
-  }
-  scrChangeTiles(self.id, xc, yc + 1);
-} else if (r < grid[xc, yc].dirUp) {
-  yc -= 1;
-  if (yc < 0) {
-    yc = 0;
-  }
-  scrChangeTiles(self.id, xc, yc - 1);
-}
-
-
-
-*/

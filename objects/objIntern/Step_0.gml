@@ -13,20 +13,26 @@ if (!walking) {
 
   //x = tile.minSpotX + xc * tile.tileX + tile.tileX / 2;
   //y = tile.minSpotY + yc * tile.tileY + tile.tileY/ 2;
-
-  draw_self();
-
+  
 } else {
   //If walking, move towards new tile position
   move_towards_point(goalX, goalY, walkSpeed); 
-  draw_self(); 
+
+  
+
   //If at new position, stop walking and add in tile check
   if (abs(x - goalX) < 2) && (abs(y - goalY) < 2) {
+    
     walking = false;    
+    if (targetGoal) {
+      alarm[1] = room_speed / 3; 
+    }
     alarm[0] = 1;
+    
+    
   }
     
-  if (position_meeting(x, y, tile) && alarm[0] <= 0) {
+  if (position_meeting(x, y, tile) && alarm[0] <= 0 && !targetGoal) {
     //If in new square, set alarm
     alarm[0] = room_speed * checkTime;
     //If walking into an instant-death square, then die upon hitting the square

@@ -25,6 +25,10 @@ with (intern) {
         dying = true; 
       }
   
+      if (grid[xc, yc].object_index == objGoal) {
+        targetGoal = true; 
+      }
+  
       alarm[0] = -1;
     } 
 
