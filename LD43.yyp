@@ -381,6 +381,25 @@
             }
         },
         {
+            "Key": "22a305c0-c6c2-42d1-9837-af9529a545a7",
+            "Value": {
+                "id": "90c51a0c-6ee2-4597-937a-55820a0703b4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scrPopulateGridFromRoom\/scrPopulateGridFromRoom.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2b7a3245-85f6-43c3-af60-be612b909f92",
             "Value": {
                 "id": "b235926e-f034-413f-a202-7adee248b512",
@@ -435,6 +454,25 @@
                 ],
                 "resourcePath": "scripts\/scrHideCredits\/scrHideCredits.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "312f7d46-9548-42a7-b707-839d8ad67e5f",
+            "Value": {
+                "id": "1e0120e1-b473-4601-bf8f-0613f8ed5cd2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objTileSpikePitTrap\/objTileSpikePitTrap.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2256,7 +2294,8 @@
         "6436b875-6a3f-46cb-8bc1-c071e409f866",
         "b0ef3043-9d0d-498a-ac76-15f086e86743",
         "eb011a3f-c286-49c9-9d3e-e4ea4fb5b481",
-        "76c9c65f-8414-4cb0-8b9d-2ccb57923fbd"
+        "76c9c65f-8414-4cb0-8b9d-2ccb57923fbd",
+        "22a305c0-c6c2-42d1-9837-af9529a545a7"
     ],
     "tutorial": ""
 }
