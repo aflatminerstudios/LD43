@@ -6,10 +6,10 @@ curScore = keeper.internsKilled;
 
 ratingSprite = noone;
 
-if (curScore< keeper.midBottomScore) {
-   ratingSprite = sprRatingLow;
+if (curScore < keeper.midBottomScore) {
+   ratingSprite = sprRatingHigh;
 } else if (curScore > keeper.midTopScore) {
-  ratingSprite = sprRatingHigh;
+  ratingSprite = sprRatingLow;
 } else {
   ratingSprite = sprRatingMedium; 
 }

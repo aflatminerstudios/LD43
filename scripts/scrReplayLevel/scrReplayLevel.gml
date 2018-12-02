@@ -1,0 +1,3 @@
+///scrReplayLevel()
+
+scrGoToLevel(objScoreKeeper.currentLevel);

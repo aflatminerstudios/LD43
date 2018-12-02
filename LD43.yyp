@@ -447,6 +447,14 @@
             }
         },
         {
+            "Key": "61618e5e-b290-4e80-996d-149086368bbf",
+            "Value": {
+                "id": "246678a5-cb42-4b13-aa96-b2bfc58138dd",
+                "resourcePath": "scripts\\scrGoToLevel\\scrGoToLevel.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6436b875-6a3f-46cb-8bc1-c071e409f866",
             "Value": {
                 "id": "abda83ff-72eb-4970-b23a-ff6189a855f4",
@@ -567,6 +575,14 @@
             }
         },
         {
+            "Key": "789db1af-1e5c-4941-a1ad-9a6698dacee0",
+            "Value": {
+                "id": "ef781e06-b9c5-49ea-a793-ddef484bddf0",
+                "resourcePath": "fonts\\fontGameOverLarge\\fontGameOverLarge.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "7cd5b826-e4f7-4e5f-bf48-d46f767d0316",
             "Value": {
                 "id": "5c8fef2b-8f37-4958-9e02-1e7a16aa73b2",
@@ -652,6 +668,14 @@
                 "id": "0edef247-02f2-4cee-a6d0-910c1260a089",
                 "resourcePath": "sounds\/sndMusic\/sndMusic.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "8dcf5b60-b7a1-4af0-b7f4-bcca5a1790ae",
+            "Value": {
+                "id": "c99532fb-1239-4f9f-982f-7f7440a41470",
+                "resourcePath": "scripts\\scrReplayLevel\\scrReplayLevel.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -799,11 +823,27 @@
             }
         },
         {
+            "Key": "ab16da75-29d0-4d0f-8d25-59cd91f4f0ac",
+            "Value": {
+                "id": "6b920249-9ada-402e-ae0e-898eaa30c3e1",
+                "resourcePath": "fonts\\fontGameOverMedium\\fontGameOverMedium.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "ab45eedd-1929-4248-9908-38a947af0eff",
             "Value": {
                 "id": "6aad4749-467f-49ef-a777-6d3228a7f7e5",
                 "resourcePath": "objects\/objTileSouthWest\/objTileSouthWest.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ac597928-4a5a-4701-8f46-100bb3b265db",
+            "Value": {
+                "id": "3ac6f1fb-c0a9-420d-a4ab-1223f6f89270",
+                "resourcePath": "scripts\\scrNextLevel\\scrNextLevel.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1312,7 +1352,10 @@
         "76c9c65f-8414-4cb0-8b9d-2ccb57923fbd",
         "6eca7ef3-97a4-4d28-b4d5-0866b9d7090d",
         "f133f38c-2281-4336-9340-3aac366a4d9a",
-        "f5b175bf-6ade-4490-adf9-7081e7fcb228"
+        "f5b175bf-6ade-4490-adf9-7081e7fcb228",
+        "61618e5e-b290-4e80-996d-149086368bbf",
+        "8dcf5b60-b7a1-4af0-b7f4-bcca5a1790ae",
+        "ac597928-4a5a-4701-8f46-100bb3b265db"
     ],
     "tutorial": ""
 }

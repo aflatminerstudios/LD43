@@ -6,9 +6,14 @@ draw_self();
 
 draw_set_color(c_black);
 
+draw_set_halign(fa_center);
 
-draw_text(x, y, "Nice Going!");
-draw_text(x, y + 50, "Interns Sacrificed: ");
-draw_text(x + 100, y + 50, string(curScore));
+draw_set_font(fontGameOverLarge);
+draw_text(400, 100, "Nice Going, Interns!");
 
-draw_sprite(ratingSprite, 0, x, y);
+draw_set_font(fontGameOverMedium);
+
+draw_text(400, 175, "Interns Sacrificed:    " + string(curScore));
+
+
+draw_sprite(ratingSprite, 0, 400, 300);
