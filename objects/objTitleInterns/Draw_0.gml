@@ -4,6 +4,6 @@
 draw_self();
 
 //if talking draw bubble
-if (talking && bubble != noon) {
+if (talking && bubble != noone) {
   draw_sprite(bubble, 0, x, y);
 }
