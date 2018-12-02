@@ -18,6 +18,6 @@ dirDown = 0.0;
 dirUp = 0.0;
 killChance = 1.0;
 
-isDeactivated = false; // Add to Intern when movement code is complete -- Micha TODO
+isDeactivated = false;
 
 show_debug_message("Creating trap");

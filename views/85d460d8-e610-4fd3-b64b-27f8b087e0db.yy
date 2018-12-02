@@ -12,7 +12,7 @@
         "c4216c44-70b8-448b-bfd6-ec7d8a1009e1"
     ],
     "filterType": "GMObject",
-    "folderName": "RegularTiles",
+    "folderName": "Path Tiles",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
