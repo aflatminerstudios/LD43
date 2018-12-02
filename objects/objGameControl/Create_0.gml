@@ -10,7 +10,11 @@ grid[0, 0] = 0;
 
 for (var i = 0; i < rows; i++) {
   for (var j = 0; j < columns ; j++) {  
-    var tile = instance_create_depth(i, j, 0, objTile);  
+    var tile;
+    if (i == 5 && j == 5)
+      tile = instance_create_depth(i, j, 0, objDeadlyTrap);      
+    else
+      tile = instance_create_depth(i, j, 0, objTile);      
     grid[i, j] = tile;
     tile.xc = i;
     tile.yc = j;

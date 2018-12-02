@@ -3,6 +3,7 @@
 
 spawnTime = 0.10;
 grid = noone;
-
+xc = 0;
+yc = 0;
 
 alarm[0] = spawnTime * room_speed;
