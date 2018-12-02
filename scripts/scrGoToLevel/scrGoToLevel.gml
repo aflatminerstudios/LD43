@@ -11,7 +11,6 @@ if (level >= array_length_1d(levelArray)) {
 }
 
 
-
 with (objScoreKeeper) {
   currentLevel = level;
   internsKilled = 0;
