@@ -15,16 +15,6 @@
             "m_owner": "aead5df5-c33c-4cd8-beb1-a929108fe2f5"
         },
         {
-            "id": "4efa4d22-ac2c-4ba6-ba0e-4e1a6264e286",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "aead5df5-c33c-4cd8-beb1-a929108fe2f5"
-        },
-        {
             "id": "695a5240-f84c-40cd-94f2-396bb82dbbbd",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -60,7 +50,42 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "be573f17-fef6-4550-be63-0feba974ac0f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                "objBridgeNorthSouth",
+                "objBridgeWestEast"
+            ],
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "objBridgeWestEast",
+            "varName": "bridgeType",
+            "varType": 6
+        },
+        {
+            "id": "795bcc9d-04a8-47fc-baf4-b05b9d8a1b98",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                "objBridgeWestEastDown",
+                "objBridgeNorthSouthDown"
+            ],
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "objBridgeWestEastDown",
+            "varName": "bridgeTypeDown",
+            "varType": 6
+        }
+    ],
     "solid": false,
     "spriteId": "0befc62c-3619-4d6c-a7f2-1161e391e9e2",
     "visible": true

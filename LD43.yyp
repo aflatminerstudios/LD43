@@ -300,7 +300,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprSwitchOn\/sprSwitchOn.yy",
+                "resourcePath": "sprites\/sprSwitchGroundOn\/sprSwitchGroundOn.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -454,6 +454,25 @@
                 ],
                 "resourcePath": "objects\/objGameControl\/objGameControl.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2e53dff4-98ba-422d-8555-820f76aaad64",
+            "Value": {
+                "id": "30250aac-f75f-452c-8bce-f2a854b630ee",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprSwitchPitOff\/sprSwitchPitOff.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -718,7 +737,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprBridge\/sprBridge.yy",
+                "resourcePath": "sprites\/sprBridgeWestEastUp\/sprBridgeWestEastUp.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1141,6 +1160,25 @@
             }
         },
         {
+            "Key": "84eff10e-95c7-4825-ba2d-fd0d56cea577",
+            "Value": {
+                "id": "6c71f184-e753-4f80-8659-597a0a746c80",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objSwitchGround\/objSwitchGround.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "85d460d8-e610-4fd3-b64b-27f8b087e0db",
             "Value": {
                 "id": "dd3abcf9-e1fc-4adc-ae33-8a91cdfafa31",
@@ -1175,6 +1213,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sprPlayGameButtonUp\/sprPlayGameButtonUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "89838cfb-3195-4591-b222-bb370dba9ebb",
+            "Value": {
+                "id": "8ee46e85-f7c4-4069-bb9a-38ec58bdcb6e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprBridgeNorthSouthDown\/sprBridgeNorthSouthDown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1233,6 +1290,44 @@
                 ],
                 "resourcePath": "scripts\/scrShowCredits\/scrShowCredits.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9013c92c-b45b-4bb9-94a1-d5d28a0467bb",
+            "Value": {
+                "id": "9b2b0293-2295-428c-b9ce-fb1dfe299f85",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprBridgeNorthSouthUp\/sprBridgeNorthSouthUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "933bc9f6-3963-4b7c-b7ec-c2cc45be7647",
+            "Value": {
+                "id": "4a6d76c7-df41-4841-b2d5-2246d45b710f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objSwitchPit\/objSwitchPit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1972,7 +2067,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/objBridge\/objBridge.yy",
+                "resourcePath": "objects\/objBridgeWestEast\/objBridgeWestEast.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2300,6 +2395,44 @@
             }
         },
         {
+            "Key": "eda0e9f1-67f5-4a6a-9532-4486b674bf6e",
+            "Value": {
+                "id": "153e15a6-8699-4a5b-81cc-7bf060383def",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprSwitchPitOn\/sprSwitchPitOn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "edcab6a1-65d0-4a6f-bf02-f9c293626ee7",
+            "Value": {
+                "id": "545ae3a1-9e6f-4af6-9131-68cf7efa5db3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objBridgeWestEastDown\/objBridgeWestEastDown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "edfbc967-3bdb-43c9-be69-62c39f3dd066",
             "Value": {
                 "id": "89cff057-dcf7-4d31-90f6-8052cba6ddee",
@@ -2409,7 +2542,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprSwitchOff\/sprSwitchOff.yy",
+                "resourcePath": "sprites\/sprSwitchGroundOff\/sprSwitchGroundOff.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2429,6 +2562,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sprLevelBackground\/sprLevelBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f8a921b3-8861-4e5e-803c-0f896784dd59",
+            "Value": {
+                "id": "21288a8b-c69e-4806-8acb-e3551bc39a9d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprBridgeWestEastDown\/sprBridgeWestEastDown.yy",
                 "resourceType": "GMSprite"
             }
         },

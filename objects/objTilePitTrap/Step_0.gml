@@ -14,9 +14,15 @@ for(var i = 0; i < array_length_1d(switchID); i++) {
 }
 
 if(oldIsDeactivated != newIsDeactivated) {
-  // Update the bridge object?
-	// Micha TODO
-	// Make sure Interns can't die? --  Micha TODO
+	if(newIsDeactivated) {
+		myBridge = instance_create_layer(x, y, self.layer, self.bridgeType);
+	} else {
+		if(myBridge != noone) {
+			instance_create_layer(x, y, self.layer, self.bridgeTypeDown);
+			instance_destroy(myBridge);
+			myBridge = noone;
+		}
+	}
 }
 
 self.isDeactivated = newIsDeactivated;
