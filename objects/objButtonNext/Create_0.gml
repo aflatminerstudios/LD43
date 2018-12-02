@@ -17,7 +17,7 @@ unpressedSound = noone;
 // Button actions feel better on button up (unpressed) on regular buttons
 // Radio buttons don't typically need these
 pressedScript = scrNullScript;
-unpressedScript = scrNullScript;
+unpressedScript = scrNextLevel;
 
 // Distance to move the button when pressed
 // Set useAutoPressAnimation to false for sprites with button press movement built in
