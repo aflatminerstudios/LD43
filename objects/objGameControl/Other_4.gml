@@ -3,3 +3,7 @@
 
 // Find the tiles in the room and assign them to the grid
 scrPopulateGridFromRoom();
+
+with (objEntrance) {
+  grid = other.grid;
+}

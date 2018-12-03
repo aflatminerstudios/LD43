@@ -399,14 +399,6 @@
             }
         },
         {
-            "Key": "3b5edf4d-82bc-4d85-9eb9-73fa33f06243",
-            "Value": {
-                "id": "1f4f41b2-3e9e-4133-bfab-b5046aca0292",
-                "resourcePath": "objects\/objEntrance\/objEntrance.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "3bfa5a1d-e776-4191-9601-6abbdaeee9bf",
             "Value": {
                 "id": "68d0ff3b-c236-4433-afd9-33ff5feb26d7",
@@ -1026,7 +1018,7 @@
             "Key": "9da28e6f-07c4-4223-a36b-927d0981bf51",
             "Value": {
                 "id": "93c8eb10-3d9b-434a-910e-419680cd8a34",
-                "resourcePath": "objects\/objInternControl\/objInternControl.yy",
+                "resourcePath": "objects\\objEntrance\\objEntrance.yy",
                 "resourceType": "GMObject"
             }
         },
