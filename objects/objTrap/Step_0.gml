@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Bridge when deactivated, override in children for other behavior
 
 var oldIsDeactivated = self.isDeactivated;
 var newIsDeactivated = false;
@@ -26,3 +25,8 @@ if(oldIsDeactivated != newIsDeactivated) {
 }
 
 self.isDeactivated = newIsDeactivated;
+
+if(self.isDeactivated)
+	currentKillChance = 0;
+else
+	currentKillChance = killChance;

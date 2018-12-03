@@ -11,5 +11,6 @@ minSpotY = 0;
 tileX = 80;
 tileY = 80;
 
-currentKillChance = killChance;
+isDeactivated = false;
 
+show_debug_message("Creating trap");

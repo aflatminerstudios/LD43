@@ -21,10 +21,7 @@ with (intern) {
       yPrevious = yc;
       xc = newX;
       yc = newY;
-      if (grid[xc, yc].killChance >= 1.0) {
-        dying = true; 
-      }
-  
+      
       if (grid[xc, yc].object_index == objGoal) {
         targetGoal = true; 
       }

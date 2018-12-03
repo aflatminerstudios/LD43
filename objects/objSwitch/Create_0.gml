@@ -4,6 +4,8 @@
 /// Parent setup and overrides
 event_inherited(); // Make sure to inherit from afm_objButton!
 
+shouldSlideOutActivateUnpressedScript = true;
+
 // Set the pressed (down) sprite, otherwise it'll use the object's sprite by default
 // Set this if you have both an up and a down sprite
 pressedSprite = sprSwitchGroundOn;

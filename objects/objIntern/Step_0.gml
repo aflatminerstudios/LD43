@@ -34,11 +34,8 @@ if (!walking) {
     //If in new square, set alarm
     alarm[0] = room_speed * checkTime;
     //If walking into an instant-death square, then die upon hitting the square
-    if (dying) {
-      scrKillIntern(self.id);
+		if (grid[xc, yc].currentKillChance >= 1.0) {
+        scrKillIntern(self.id); 
     }
   }
-    
-  
-  
 }

@@ -7,7 +7,14 @@ var oldPosition = [xc, yc];
 
 alarm[0] = room_speed * checkTime;
 
-if (r < grid[xc, yc].killChance) {
+var currentTile = grid[xc, yc];
+var isTrapTile = object_is_ancestor(currentTile.object_index, objTrap);
+var isActivatedTrap = false;
+if(isTrapTile) {
+	isActivatedTrap = !currentTile.isDeactivated;	
+}
+
+if (isActivatedTrap && r < currentTile.currentKillChance) {
 	scrKillIntern(self.id);
 } else if (r < grid[xc, yc].dirLeft) {    
   if (xc - 1 >= 0) {    
