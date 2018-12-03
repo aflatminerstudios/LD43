@@ -10,7 +10,8 @@
         "da4d7b51-2934-4b13-affc-f102084635cc",
         "d8e3fc29-b682-4240-8b0f-403af5395b4e",
         "ab45eedd-1929-4248-9908-38a947af0eff",
-        "c4216c44-70b8-448b-bfd6-ec7d8a1009e1"
+        "c4216c44-70b8-448b-bfd6-ec7d8a1009e1",
+        "cdf531ac-6749-4452-97e9-5fed0fd26ddd"
     ],
     "filterType": "GMObject",
     "folderName": "RegularTiles",
