@@ -8,8 +8,7 @@ var newY = argument2;
 
 with (intern) {
   //Do not change tiles if on a stop tile AND global stop button has been pushed  
-  //So change tiles only if grid square is not a stop tile OR global stop is not enforced
-  show_debug_message(string(objRunButton.isPressed) + ", " + string(grid[xc, yc].object_index == objPathStop));
+  //So change tiles only if grid square is not a stop tile OR global stop is not enforced  
   if (!(grid[xc, yc].object_index == objPathStop) || (objRunButton.isPressed)) {
   
   

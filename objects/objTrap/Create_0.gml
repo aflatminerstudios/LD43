@@ -13,4 +13,4 @@ tileY = 80;
 
 isDeactivated = false;
 
-show_debug_message("Creating trap");
+//show_debug_message("Creating trap");
