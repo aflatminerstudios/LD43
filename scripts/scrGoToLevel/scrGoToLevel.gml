@@ -2,9 +2,9 @@
 
 var level = argument0;
 
-var levelArray = [roomLevel1];
-var bottomScores = [10];
-var topScores = [40];
+var levelArray = [roomLevelG1L1, roomLevelG1L2, roomLevelG1L3, roomLevelG1L4];
+var bottomScores = [3, 5, 2, 3];
+var topScores = [8, 10, 7, 8];
 
 if (level >= array_length_1d(levelArray)) {
   level = 0; 
