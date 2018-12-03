@@ -2,7 +2,7 @@
     "id": "b6f72056-798b-47e9-b1f3-8025ee441049",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "sprRunButton",
+    "name": "objRunButton",
     "eventList": [
         {
             "id": "9184441e-3a30-43e2-86af-ab34b1319d6e",
@@ -12,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "b6f72056-798b-47e9-b1f3-8025ee441049"
+        },
+        {
+            "id": "f4a046dd-7880-4832-b395-28e4a18716ec",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
             "m_owner": "b6f72056-798b-47e9-b1f3-8025ee441049"
         }
     ],

@@ -1058,7 +1058,7 @@
             "Key": "b6f72056-798b-47e9-b1f3-8025ee441049",
             "Value": {
                 "id": "1d2a54e8-cccc-4f3d-aabe-bca7c66e54f6",
-                "resourcePath": "objects\\sprRunButton\\sprRunButton.yy",
+                "resourcePath": "objects\\objRunButton\\objRunButton.yy",
                 "resourceType": "GMObject"
             }
         },

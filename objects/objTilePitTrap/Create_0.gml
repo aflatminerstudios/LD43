@@ -20,4 +20,4 @@ killChance = 1.0;
 
 isDeactivated = false; // Add to Intern when movement code is complete -- Micha TODO
 
-show_debug_message("Creating trap");
+//show_debug_message("Creating trap");

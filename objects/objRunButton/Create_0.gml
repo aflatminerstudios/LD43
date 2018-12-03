@@ -15,6 +15,6 @@ pressedSprite = sprRunButtonDown;
 // Turn it off if you have the "press" movement built into the down sprite
 useAutoPressAnimation = false;
 
-// This will run when the button is released/unpressed/touch up
+// This will run when the button is pressed
 // Running on the release feels better than on initial press for most buttons
-unpressedScript = scrSpawnIntern; // Your button click script goes here
+pressedScript = scrSpawnIntern; // Your button click script goes here
