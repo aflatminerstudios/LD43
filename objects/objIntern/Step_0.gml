@@ -18,8 +18,6 @@ if (!walking) {
   //If walking, move towards new tile position
   move_towards_point(goalX, goalY, walkSpeed); 
 
-  
-
   //If at new position, stop walking and add in tile check
   if (abs(x - goalX) < 2) && (abs(y - goalY) < 2) {
     
