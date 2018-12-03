@@ -12,7 +12,9 @@
         "2c1c993c-e2c8-41d4-8970-fee2443484d8",
         "bab2c399-d400-471d-8497-83df6d66feb5",
         "da84a7b1-b40e-41d1-b288-441b1cdab03f",
-        "ae288c86-5083-4340-bc02-d00fa54bcdbc"
+        "ae288c86-5083-4340-bc02-d00fa54bcdbc",
+        "fece7761-30fd-459c-bdee-f86575440481",
+        "3c3e86a2-17e6-4e26-a0ba-b69ec9d45d22"
     ],
     "filterType": "GMSprite",
     "folderName": "Path Tiles",

@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-        
+
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-            
+
         ],
         "projectPath": "${base_project}"
     },
@@ -287,6 +287,25 @@
             }
         },
         {
+            "Key": "2a2564f2-799e-44e1-9f27-6246a00f2d0a",
+            "Value": {
+                "id": "41588934-471c-49bf-a333-b09cbef4f92a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+
+                ],
+                "configDeltas": [
+
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objTilePressurePlate\/objTilePressurePlate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2b7a3245-85f6-43c3-af60-be612b909f92",
             "Value": {
                 "id": "b235926e-f034-413f-a202-7adee248b512",
@@ -427,6 +446,25 @@
             "Value": {
                 "id": "68d0ff3b-c236-4433-afd9-33ff5feb26d7",
                 "resourcePath": "sprites\/sprRatingHigh\/sprRatingHigh.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3c3e86a2-17e6-4e26-a0ba-b69ec9d45d22",
+            "Value": {
+                "id": "fc63a797-f37e-48ff-ac1e-6300467c4269",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+
+                ],
+                "configDeltas": [
+
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprTilePressurePlateDown\/sprTilePressurePlateDown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1820,6 +1858,25 @@
                 "id": "a2fc98d3-2a92-4849-ab7b-a83d2000e10d",
                 "resourcePath": "objects\/objTileStraight2\/objTileStraight2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fece7761-30fd-459c-bdee-f86575440481",
+            "Value": {
+                "id": "b10019cb-52c6-4f38-8d50-434dba5d09f4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+
+                ],
+                "configDeltas": [
+
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprTilePressurePlateUp\/sprTilePressurePlateUp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

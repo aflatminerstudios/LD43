@@ -11,7 +11,7 @@ var currentTile = grid[xc, yc];
 var isTrapTile = object_is_ancestor(currentTile.object_index, objTrap);
 var isActivatedTrap = false;
 if(isTrapTile) {
-	isActivatedTrap = !currentTile.isDeactivated;	
+	isActivatedTrap = currentTile.isActivated;	
 }
 
 if (isActivatedTrap && r < currentTile.currentKillChance) {
