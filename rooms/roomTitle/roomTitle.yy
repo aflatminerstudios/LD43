@@ -17,7 +17,8 @@
         "063cb426-0acd-4401-a586-26425d785b7e",
         "802e882c-9ff8-4e0c-b1b3-d1807e6e829e",
         "b59207e4-47a1-4853-b9f6-cc0c6ed544ff",
-        "b1f3c89e-f1c1-42c3-a7b2-7f0d6f7996a7"
+        "b1f3c89e-f1c1-42c3-a7b2-7f0d6f7996a7",
+        "e3fc9ac5-79b2-4488-b532-0ca518a16c1f"
     ],
     "IsDnD": false,
     "layers": [
@@ -28,7 +29,7 @@
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
-            "hierarchyFrozen": true,
+            "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
@@ -39,13 +40,14 @@
 {"name": "inst_3F2FBFD7","id": "796db87c-166b-42ca-8e83-c50d47117b65","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3F2FBFD7","objId": "2b7a3245-85f6-43c3-af60-be612b909f92","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1504,"y": 544},
 {"name": "inst_3E49CE7B","id": "9daadbc4-fd01-40ce-b459-a2a5bf419d13","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3E49CE7B","objId": "13e895fc-6f61-44ef-b149-8e2434f7e4b0","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 704,"y": 512},
 {"name": "inst_7AFACEEE","id": "d9aed618-3e6f-4525-b90e-cce1b3f46e28","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7AFACEEE","objId": "934375c7-cabd-4329-a9c1-b781c6897784","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1984,"y": 544},
-{"name": "inst_4AB9820C","id": "57b733ae-696f-48ec-9124-d9f1f602646d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4AB9820C","objId": "ecbb36e0-5060-4269-be05-dd1ba036a0cb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1344,"y": 32}
+{"name": "inst_4AB9820C","id": "57b733ae-696f-48ec-9124-d9f1f602646d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4AB9820C","objId": "ecbb36e0-5060-4269-be05-dd1ba036a0cb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1344,"y": 32},
+{"name": "inst_62CBEA9F","id": "e3fc9ac5-79b2-4488-b532-0ca518a16c1f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_62CBEA9F","objId": "cc481fd0-3262-49aa-884b-8f943f012bec","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1376,"y": 32}
             ],
             "layers": [
 
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": true,
+            "m_serialiseFrozen": false,
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
