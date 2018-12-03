@@ -2,7 +2,7 @@
     "id": "84eff10e-95c7-4825-ba2d-fd0d56cea577",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objSwitchGround",
+    "name": "objPushSwitchGround",
     "eventList": [
         {
             "id": "8a42b05f-0e50-49b7-a0cf-1d86d62cb7a1",

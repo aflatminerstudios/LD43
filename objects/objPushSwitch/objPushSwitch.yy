@@ -2,7 +2,7 @@
     "id": "cd2d1790-bc3b-4745-8bbc-e45629b0eaba",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objSwitch",
+    "name": "objPushSwitch",
     "eventList": [
         {
             "id": "3069dc14-c2da-4c83-a57e-0715e34bb7da",

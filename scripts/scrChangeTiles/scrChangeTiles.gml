@@ -30,15 +30,16 @@ with (intern) {
       }
       
       walking = true;
-      xOffset = irandom_range(-20, 20);
-      yOffset = irandom_range(-20, 20);
+      xOffset = irandom_range(-25, 25);
+      yOffset = irandom_range(-25, 25);
       xPrevious = xc;
       yPrevious = yc;
       xc = newX;
       yc = newY;
       
       if (grid[xc, yc].object_index == objGoal) {
-        targetGoal = true; 
+        targetGoal = true;
+				yOffset = 30; // Move in front of the goal
       }
   
       alarm[0] = -1;

@@ -1,23 +1,23 @@
 {
-    "id": "933bc9f6-3963-4b7c-b7ec-c2cc45be7647",
+    "id": "ce0d8387-02e1-4cd7-a618-e8ca866bd23b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objSwitchPit",
+    "name": "objToggleSwitchGround",
     "eventList": [
         {
-            "id": "e042b055-f496-4b26-b76d-dd56507793ad",
+            "id": "ad7b7fc4-e3b0-4cc7-a556-d731390e831f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "933bc9f6-3963-4b7c-b7ec-c2cc45be7647"
+            "m_owner": "ce0d8387-02e1-4cd7-a618-e8ca866bd23b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "cd2d1790-bc3b-4745-8bbc-e45629b0eaba",
+    "parentObjectId": "6995f564-de37-484a-8d4c-f3062cce4449",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "2e53dff4-98ba-422d-8555-820f76aaad64",
+    "spriteId": "f5825c77-5e23-4b7e-9de2-e69fae67af55",
     "visible": true
 }

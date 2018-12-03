@@ -1,4 +1,4 @@
-/// @description Call objSwitch's draw event		
+/// @description Call objPushSwitch's draw event		
 
-event_perform_object(objSwitch, ev_draw, 0);
+event_perform_object(objPushSwitch, ev_draw, 0);
 

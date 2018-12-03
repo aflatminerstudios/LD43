@@ -4,8 +4,8 @@
 // Inherit the parent event
 event_inherited();
 
-// Multiple inheritance through objSwitch
-event_perform_object(objSwitch, ev_create, 0);
+// Multiple inheritance through objPushSwitch
+event_perform_object(objPushSwitch, ev_create, 0);
 
 pressedSprite = sprTilePressurePlateDown
 

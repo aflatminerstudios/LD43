@@ -6,9 +6,9 @@
 if(prevDown != currDown) {
 	
 	if(currDown) { // pressed!
-		event_perform_object(objSwitch, ev_mouse, ev_left_press);
+		event_perform_object(objPushSwitch, ev_mouse, ev_left_press);
 	} else { // released!
-		event_perform_object(objSwitch, ev_mouse, ev_left_release);
+		event_perform_object(objPushSwitch, ev_mouse, ev_left_release);
 	}
 }
 

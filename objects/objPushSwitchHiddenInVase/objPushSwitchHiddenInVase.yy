@@ -2,7 +2,7 @@
     "id": "021edcda-a04e-48f0-853d-93826d4e20f6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objSwitchHiddenInVase",
+    "name": "objPushSwitchHiddenInVase",
     "eventList": [
         {
             "id": "f4d8e3dd-3895-483c-948e-c620b004cc0b",
