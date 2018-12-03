@@ -9,4 +9,6 @@ yc = 0;
 xOffset = 0;
 yOffset = 10;
 
+numToSpawn = 3;
+
 //alarm[0] = spawnTime * room_speed;
