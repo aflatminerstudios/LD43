@@ -5,7 +5,7 @@ talking = false;
 bubble = noone;
 
 minTime = 3;
-maxTime = 40;
+maxTime = 30;
 timeToSpeak = 5;
 
 alarm[0] = room_speed * random_range(minTime, maxTime);
