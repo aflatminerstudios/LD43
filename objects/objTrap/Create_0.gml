@@ -4,4 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
-isDeactivated = false;
+isActivated = isNormallyActivated;
+prevIsActivated = !isNormallyActivated; // Ensure it will be updated on the first frame
+myBridge = noone;

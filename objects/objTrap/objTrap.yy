@@ -84,6 +84,20 @@
             "value": "objBridgeWestEastDown",
             "varName": "bridgeTypeDown",
             "varType": 6
+        },
+        {
+            "id": "8172dcbe-6a19-4ec6-ab9a-612ce1b4d222",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "isNormallyActivated",
+            "varType": 3
         }
     ],
     "solid": false,
