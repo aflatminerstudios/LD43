@@ -10,7 +10,10 @@
         "89838cfb-3195-4591-b222-bb370dba9ebb",
         "4a988a83-826f-4af9-b8e3-e2e1e04ba8b6",
         "f8a921b3-8861-4e5e-803c-0f896784dd59",
-        "d3a7de8a-acb0-4d74-ad43-9e9a83825b7e"
+        "d3a7de8a-acb0-4d74-ad43-9e9a83825b7e",
+        "08450272-d93a-4df0-ab98-61a647481ca3",
+        "24a4277f-979f-416b-9f2e-58b4485651a9",
+        "c710edcc-d12c-475d-a2b6-5336e3782b51"
     ],
     "filterType": "GMSprite",
     "folderName": "Trap Tiles",

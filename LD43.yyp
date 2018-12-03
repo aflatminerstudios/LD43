@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "08450272-d93a-4df0-ab98-61a647481ca3",
+            "Value": {
+                "id": "2f2c54b1-a8e8-4503-838b-6d9e2fac6fce",
+                "resourcePath": "sprites\\sprBoulderStand\\sprBoulderStand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "084e41ba-c278-4c78-9cca-0d94cc5a8f69",
             "Value": {
                 "id": "b686f3f1-fd69-4d82-865b-91ceb8c8023c",
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "24a4277f-979f-416b-9f2e-58b4485651a9",
+            "Value": {
+                "id": "a6c24b02-5717-4821-b4af-25e199f9355b",
+                "resourcePath": "sprites\\sprBoulderStatic\\sprBoulderStatic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2503eae5-affc-437e-a023-1dda1835fd49",
             "Value": {
                 "id": "ffa23b21-0595-43fa-b524-8a3b5bb3ce75",
@@ -324,6 +340,14 @@
                 "id": "41588934-471c-49bf-a333-b09cbef4f92a",
                 "resourcePath": "objects\/objTilePressurePlate\/objTilePressurePlate.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2b38ff84-6eb8-4379-9b21-7ae0d74304fa",
+            "Value": {
+                "id": "7dced5d7-d8e9-4e64-9b43-08e4cc95801e",
+                "resourcePath": "rooms\\roomLevelG3L1\\roomLevelG3L1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -508,6 +532,14 @@
                 "id": "982eec23-68c6-4d7f-83e5-27c8f057c335",
                 "resourcePath": "sprites\/sprTitleLogo\/sprTitleLogo.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "43aa1483-bca0-44ca-bda4-71f2ec60745b",
+            "Value": {
+                "id": "6f436c0d-49f5-48b9-93c6-812a62a68eb3",
+                "resourcePath": "objects\\objBoulder\\objBoulder.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1087,6 +1119,14 @@
             }
         },
         {
+            "Key": "91cbda04-717d-48a3-baa9-bc16b676e489",
+            "Value": {
+                "id": "98529f19-ffcc-4a0b-833d-f9c7d3528c49",
+                "resourcePath": "scripts\\scrBoulderFall\\scrBoulderFall.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "933bc9f6-3963-4b7c-b7ec-c2cc45be7647",
             "Value": {
                 "id": "4a6d76c7-df41-4841-b2d5-2246d45b710f",
@@ -1367,6 +1407,14 @@
             }
         },
         {
+            "Key": "b4bc621b-452a-4116-9116-2b50f4bccbe8",
+            "Value": {
+                "id": "a471149a-1b2f-483d-8108-657f5cf23593",
+                "resourcePath": "scripts\\scrLaunchBoulder\\scrLaunchBoulder.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b5dcaf1b-8dc4-4d56-ba18-c176d0b8407d",
             "Value": {
                 "id": "0525eb15-42b4-4003-9d14-40fdb4e5b86d",
@@ -1527,6 +1575,14 @@
             }
         },
         {
+            "Key": "c710edcc-d12c-475d-a2b6-5336e3782b51",
+            "Value": {
+                "id": "2f13c093-afca-4e7b-af66-17b10a79fae2",
+                "resourcePath": "sprites\\sprBoulderRolling\\sprBoulderRolling.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c8dada2d-8e54-4ae2-805e-5b099d2d8928",
             "Value": {
                 "id": "9648fd2e-cc7f-4f6b-be23-8756ae6f56d4",
@@ -1615,6 +1671,14 @@
             }
         },
         {
+            "Key": "d3cf13a0-d524-443a-95a9-705c18cd4af2",
+            "Value": {
+                "id": "ccfe8c20-f966-4e57-8363-0673c5a82ed7",
+                "resourcePath": "objects\\objBoulderStand\\objBoulderStand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d50ef872-b589-4bbc-aa65-7fbf5c1dd412",
             "Value": {
                 "id": "96d7eef2-437e-439e-9a2a-ea47ad01e13c",
@@ -1684,6 +1748,22 @@
                 "id": "894d92fb-add2-4b2e-9ca9-ffbaebe9a994",
                 "resourcePath": "sprites\/sprTileFourWay\/sprTileFourWay.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "db172445-e510-44cc-b4e3-16b7b0436264",
+            "Value": {
+                "id": "4211a7e3-74b7-4684-b4f3-ff96c91df4ec",
+                "resourcePath": "rooms\\roomJohnTest\\roomJohnTest.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "dbd33f57-2b85-4d9b-9558-9ccd14722695",
+            "Value": {
+                "id": "2b8a0fb0-98ff-4c4f-89d4-d33f3b57f3da",
+                "resourcePath": "views\\fc00b7f5-bb0e-41a8-a6ee-da30caabae3c-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1991,6 +2071,14 @@
             }
         },
         {
+            "Key": "fc00b7f5-bb0e-41a8-a6ee-da30caabae3c",
+            "Value": {
+                "id": "120a6e33-e56c-402b-bf1f-852045db3a06",
+                "resourcePath": "rooms\\roomLevelG3\\roomLevelG3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "fc6cbd1c-991f-4464-818d-dc14e0adf01f",
             "Value": {
                 "id": "da269659-89b1-430c-a13d-7bbe96dff21f",
@@ -2061,7 +2149,9 @@
         "806f4c38-6a92-4f1c-bdf5-925073a0de82",
         "711bcca4-0cc4-4c5b-a6c3-84d18f613345",
         "22a305c0-c6c2-42d1-9837-af9529a545a7",
-        "f133f38c-2281-4336-9340-3aac366a4d9a"
+        "f133f38c-2281-4336-9340-3aac366a4d9a",
+        "b4bc621b-452a-4116-9116-2b50f4bccbe8",
+        "91cbda04-717d-48a3-baa9-bc16b676e489"
     ],
     "tutorial": ""
 }
