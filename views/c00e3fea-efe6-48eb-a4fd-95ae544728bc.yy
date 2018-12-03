@@ -5,11 +5,14 @@
     "name": "c00e3fea-efe6-48eb-a4fd-95ae544728bc",
     "children": [
         "bb3e8a5a-43d6-4217-95b0-a43720a802c7",
-        "c52f4dc3-a95b-40e9-a7b8-f8567f20ce41",
+        "023e94b0-9565-43bb-964b-06a38b90315a",
+        "44981dce-8eb1-4fa8-bc4c-8a46c9c3598c",
         "34823e09-a618-438c-ab1f-45172b951834",
-        "449436ff-23d9-42b2-9e87-fbdb810dd75e",
-        "cb4f21e7-2cc6-49ab-847d-fbb724499049",
-        "1a7f6683-73fb-45ba-80a6-a12d1f7b457a"
+        "7209e1ec-d151-4bd3-b265-253c23f5289a",
+        "2c1c993c-e2c8-41d4-8970-fee2443484d8",
+        "bab2c399-d400-471d-8497-83df6d66feb5",
+        "da84a7b1-b40e-41d1-b288-441b1cdab03f",
+        "ae288c86-5083-4340-bc02-d00fa54bcdbc"
     ],
     "filterType": "GMSprite",
     "folderName": "Path Tiles",
