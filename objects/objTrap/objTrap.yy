@@ -5,16 +5,6 @@
     "name": "objTrap",
     "eventList": [
         {
-            "id": "b13e728c-3217-4d8c-a86f-830982ff40d9",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "33babf9b-9202-45f3-9661-17b2858902b3"
-        },
-        {
             "id": "4f054271-c6ab-4ea0-b7ee-37263870947c",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
+            "m_owner": "33babf9b-9202-45f3-9661-17b2858902b3"
+        },
+        {
+            "id": "492644b8-b925-43b6-b468-c47000d0dad6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "33babf9b-9202-45f3-9661-17b2858902b3"
         }
     ],

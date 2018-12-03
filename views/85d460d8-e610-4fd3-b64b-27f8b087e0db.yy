@@ -12,7 +12,8 @@
         "c3b9f183-acd8-4c37-bdfe-f0421a4cdb78",
         "e4786695-c5a2-45c5-a82c-f9f713f9205f",
         "36060365-5d02-45c8-aea2-c5fc6f42265e",
-        "cdf531ac-6749-4452-97e9-5fed0fd26ddd"
+        "cdf531ac-6749-4452-97e9-5fed0fd26ddd",
+        "2a2564f2-799e-44e1-9f27-6246a00f2d0a"
     ],
     "filterType": "GMObject",
     "folderName": "Path Tiles",
