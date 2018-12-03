@@ -1239,6 +1239,14 @@
             }
         },
         {
+            "Key": "cdf531ac-6749-4452-97e9-5fed0fd26ddd",
+            "Value": {
+                "id": "7b751aa8-e52d-47d3-8530-a487b9b5724a",
+                "resourcePath": "objects\\objPathStop\\objPathStop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ce2a50ea-20a9-4ecb-a817-77c04781c18e",
             "Value": {
                 "id": "5644ee31-91f3-471c-ae0e-5117861961a0",
