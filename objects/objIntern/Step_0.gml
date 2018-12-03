@@ -31,13 +31,14 @@ if (!walking) {
     walking = false;    
     if (targetGoal) {
       alarm[1] = room_speed / 5; 
+      afm_scrPlaySoundWithRandomVarianceInRange(sndVictory, 1.0, 1.0);
     }
     alarm[0] = 1;
     
     
   }
     
-  if (position_meeting(x, y, tile) && alarm[0] <= 0 && !targetGoal) {
+  if (position_meeting(x, y, tile) && alarm[0] <= 0 && !targetGoal && tile.object_index != objPathStop) {
     //If in new square, set alarm
     alarm[0] = room_speed * checkTime;
     //If walking into an instant-death square, then die upon hitting the square

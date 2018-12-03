@@ -30,3 +30,6 @@ walking = false;
 
 //Is the character's target tile the goal
 targetGoal = false;
+
+//Is the target tile a stop square
+targetStop = false;
