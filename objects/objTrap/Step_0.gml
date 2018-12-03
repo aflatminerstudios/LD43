@@ -8,7 +8,10 @@ for(var i = 0; i < array_length_1d(switchID); i++) {
 		continue;
 	var switchNumber = real(switchID[i]);
 	if(objSwitchboard.activatedSwitches[switchNumber] == true) {
-		newIsActivated = !isNormallyActivated;
+		if(switchesFlipState)
+			newIsActivated = !newIsActivated;
+		else
+			newIsActivated = !isNormallyActivated;
 	}
 }
 
