@@ -30,7 +30,7 @@ if (!walking) {
     
     walking = false;    
     if (targetGoal) {
-      alarm[1] = room_speed / 3; 
+      alarm[1] = room_speed / 5; 
     }
     alarm[0] = 1;
     

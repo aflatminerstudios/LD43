@@ -14,3 +14,7 @@ with (objEntrance) {
     in.yOffset = yOffset;
   }
 }
+
+with (objIntern) {
+  alarm[0] = 1; 
+}
