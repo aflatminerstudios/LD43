@@ -12,7 +12,7 @@
         "1a7f6683-73fb-45ba-80a6-a12d1f7b457a"
     ],
     "filterType": "GMSprite",
-    "folderName": "Regular Tiles",
+    "folderName": "Path Tiles",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
