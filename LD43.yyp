@@ -1007,6 +1007,14 @@
             }
         },
         {
+            "Key": "ae288c86-5083-4340-bc02-d00fa54bcdbc",
+            "Value": {
+                "id": "22af25df-3cff-40fd-babf-761a42e96c7e",
+                "resourcePath": "sprites\\sprPathStop\\sprPathStop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aead5df5-c33c-4cd8-beb1-a929108fe2f5",
             "Value": {
                 "id": "a7e14a0d-389f-4780-8f46-93b64d078528",
