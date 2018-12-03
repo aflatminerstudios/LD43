@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "348d9582-4d60-4c7d-8278-c0c557b6b9c9",
+            "Value": {
+                "id": "d9b4eb63-2171-40bd-a0e5-575636b8f534",
+                "resourcePath": "sprites\\sprFastForwardUp\\sprFastForwardUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "36d06616-5a7e-4f21-965b-2235cf3bd406",
             "Value": {
                 "id": "e9b9d104-f760-4830-9b92-ec244f79aaa3",
@@ -404,6 +412,14 @@
                 "id": "194125c9-5dd0-4b4f-8b43-458a40c0437a",
                 "resourcePath": "sprites\/sprBridgeWestEastUp\/sprBridgeWestEastUp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4c384cd5-9c95-41bb-b175-a95abcc828d9",
+            "Value": {
+                "id": "2efb4818-10c6-47c6-9abc-a0f5a4dd3af7",
+                "resourcePath": "objects\\objFastForwardButton\\objFastForwardButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -604,6 +620,14 @@
                 "id": "dc05618e-61e8-458c-9356-3f42763c10cb",
                 "resourcePath": "scripts\\scrSpawnIntern\\scrSpawnIntern.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "738c77e3-c987-4ac9-b333-46f443ddb724",
+            "Value": {
+                "id": "d173ed68-f387-4e32-b5c6-0ce48d725a50",
+                "resourcePath": "sprites\\sprFastForwardDown\\sprFastForwardDown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
