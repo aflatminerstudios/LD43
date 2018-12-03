@@ -6,7 +6,7 @@ yc = 0;
 
 
 parent = noone;
-checkTime = 0.5;
+checkTime = 0.25;
 walkSpeed = 2;
 
 //If fast-forward is pressed, multiply by:
