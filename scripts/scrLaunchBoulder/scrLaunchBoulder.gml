@@ -6,5 +6,5 @@ var theBoulder = argument1;
 with (theBoulder) {  
   rolling = true;
   dir = boulderStand.dir;
-  depth -= 2;
+  depth = layer_get_depth("Bridges") - 2;
 }

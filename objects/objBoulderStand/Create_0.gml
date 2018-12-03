@@ -4,7 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
-dir = 0;
 hasLaunched = false;
 
 boulder = instance_create_depth(x, y, depth + 1, objBoulder);

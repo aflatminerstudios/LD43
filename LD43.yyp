@@ -999,6 +999,14 @@
             }
         },
         {
+            "Key": "83fcf8f2-7fbb-45da-ba4e-beecc6d4d071",
+            "Value": {
+                "id": "f23523c6-1507-4abb-b607-f6bc4abcef38",
+                "resourcePath": "rooms\\roomLevelG4L4\\roomLevelG4L4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "8182348c-f911-4439-b6a3-0b7c135f0dd3",
@@ -1487,6 +1495,14 @@
             }
         },
         {
+            "Key": "bd8fe476-ca03-46c1-b8dc-a0c11e8a090c",
+            "Value": {
+                "id": "0c0c1db1-47d6-4e62-95a7-9bcc8096438a",
+                "resourcePath": "rooms\\roomLevelG5L5\\roomLevelG5L5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "bf4f6546-28ca-49bf-badd-4e5d25c8536a",
             "Value": {
                 "id": "5c1f2833-dce2-492a-8d55-bb0a792fc399",
@@ -1727,6 +1743,14 @@
             }
         },
         {
+            "Key": "d9955784-a2cb-4782-b00b-27969ca9a703",
+            "Value": {
+                "id": "d230cab3-f9b7-4bc8-a4e6-692c718eb81c",
+                "resourcePath": "rooms\\roomLevelG3L3\\roomLevelG3L3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d9c8acf0-464b-42f0-8e61-1f1a59d24218",
             "Value": {
                 "id": "cd7a11a3-ef17-47e1-80f6-8e8bd7f7e5cb",
@@ -1828,6 +1852,14 @@
                 "id": "b9809485-22b7-470d-adf1-29bd3c44d443",
                 "resourcePath": "options\/android\/options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e445e7a7-7a06-4026-baf1-5d92db56cbdb",
+            "Value": {
+                "id": "ce36cca4-281d-469f-803f-65cc7ff3f43b",
+                "resourcePath": "rooms\\roomLevelG3L2\\roomLevelG3L2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

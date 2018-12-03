@@ -2,9 +2,8 @@
 // You can write your code in this editor
 
 
-if (dir == 90 || dir == 270) {
-  onTile = true;
-}
+onTile = true;
+
 
 if (rolling) {
   
@@ -16,9 +15,14 @@ if (rolling) {
   
     motion_set(dir, rollSpeed); 
     
+    //If collides with a pit
     var colliding = instance_place(x, y, objTilePitTrap);
-    if (colliding != noone)  {
-      show_debug_message("Colliding with " + string(colliding ));
+    if (colliding != noone && colliding.currentKillChance == 1.0)  {     
+      scrBoulderFall(self.id);
+    }
+    
+    //If outside of screen
+    if (x > 680 || x < 115 || y < 100 || y > 505) {
       scrBoulderFall(self.id);
     }
     
