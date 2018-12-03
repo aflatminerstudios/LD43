@@ -10,6 +10,9 @@ if (!walking) {
 
   x = goalX;
   y = goalY;
+  
+  if (sprite_index != sprInternIdle)
+    sprite_index = sprInternIdle;
 
   //x = tile.minSpotX + xc * tile.tileX + tile.tileX / 2;
   //y = tile.minSpotY + yc * tile.tileY + tile.tileY/ 2;

@@ -20,10 +20,12 @@ if (isActivatedTrap && r < currentTile.currentKillChance) {
   if (xc - 1 >= 0) {    
     scrChangeTiles(self.id, xc - 1, yc);
   }
+
 } else if (r < grid[xc, yc].dirRight) {  
   if (xc + 1 <= GRID_COLUMNS - 1) {
     scrChangeTiles(self.id, xc + 1, yc);
   }
+  
 } else if (r < grid[xc, yc].dirDown) { 
   if (yc + 1 <= GRID_ROWS - 1) {
     scrChangeTiles(self.id, xc, yc + 1);

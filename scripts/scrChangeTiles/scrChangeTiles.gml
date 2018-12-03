@@ -14,6 +14,21 @@ with (intern) {
   
     //Only do this if not walking OR if new target is different from old
     if ((!walking) ||  (newX != xPrevious || newY != yPrevious)) {
+      
+      if (newX - xc == 1) {
+        sprite_index = sprInternRunLeft;
+        image_xscale = -1;        
+      } else if (newX - xc == -1) {
+        sprite_index = sprInternRunLeft;
+        image_xscale = 1;        
+      } else if (newY - yc == 1) {
+        sprite_index = sprInternRunDown;
+        image_xscale = 1;        
+      } else if (newY - yc == -1) {
+        sprite_index = sprInternRunUp;
+        image_xscale = 1;        
+      }
+      
       walking = true;
       xOffset = irandom_range(-20, 20);
       yOffset = irandom_range(-20, 20);

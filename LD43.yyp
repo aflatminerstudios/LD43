@@ -226,7 +226,7 @@
             "Key": "225a893c-a1c3-4f1c-a743-41b4c2217773",
             "Value": {
                 "id": "bce57235-c4bb-4926-98fc-89f748c6adbe",
-                "resourcePath": "sprites\\sprRunLeft\\sprRunLeft.yy",
+                "resourcePath": "sprites\\sprInternRunLeft\\sprInternRunLeft.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -258,7 +258,7 @@
             "Key": "2503eae5-affc-437e-a023-1dda1835fd49",
             "Value": {
                 "id": "ffa23b21-0595-43fa-b524-8a3b5bb3ce75",
-                "resourcePath": "sprites\\sprRunUp\\sprRunUp.yy",
+                "resourcePath": "sprites\\sprInternRunUp\\sprInternRunUp.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -642,7 +642,7 @@
             "Key": "684d0e20-2789-4545-9d1d-70768cde7d8b",
             "Value": {
                 "id": "d119876b-ba47-4cba-ad38-b4cfa1ee801f",
-                "resourcePath": "sprites\\sprRunDown\\sprRunDown.yy",
+                "resourcePath": "sprites\\sprInternRunDown\\sprInternRunDown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -834,7 +834,7 @@
             "Key": "8345dc7e-5741-4fcb-bd3a-04675f4dbbeb",
             "Value": {
                 "id": "29ea24cf-9faf-4155-8102-d7d07ec08140",
-                "resourcePath": "sprites\\sprFallToDeath\\sprFallToDeath.yy",
+                "resourcePath": "sprites\\sprInternFallToDeath\\sprInternFallToDeath.yy",
                 "resourceType": "GMSprite"
             }
         },
