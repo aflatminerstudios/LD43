@@ -9,4 +9,6 @@ with (objInternControl) {
   in.yc = yc;
   in.parent = self.id;
   in.grid = grid; 
+  in.xOffset = xOffset;
+  in.yOffset = yOffset;
 }

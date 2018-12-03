@@ -6,4 +6,7 @@ grid = noone;
 xc = 0;
 yc = 0;
 
+xOffset = 0;
+yOffset = 10;
+
 //alarm[0] = spawnTime * room_speed;

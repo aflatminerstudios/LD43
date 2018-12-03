@@ -15,11 +15,15 @@ if (!walking) {
   //y = tile.minSpotY + yc * tile.tileY + tile.tileY/ 2;
   
 } else {
+  var curSpeed = walkSpeed;
+  if (objFastForwardButton.isPressed) {
+    curSpeed *= runMult;
+  }
   //If walking, move towards new tile position
-  move_towards_point(goalX, goalY, walkSpeed); 
+  move_towards_point(goalX, goalY, curSpeed); 
 
   //If at new position, stop walking and add in tile check
-  if (abs(x - goalX) < 2) && (abs(y - goalY) < 2) {
+  if (abs(x - goalX) <= curSpeed) && (abs(y - goalY) <= curSpeed) {
     
     walking = false;    
     if (targetGoal) {
