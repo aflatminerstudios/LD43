@@ -698,7 +698,7 @@
             "Key": "711bcca4-0cc4-4c5b-a6c3-84d18f613345",
             "Value": {
                 "id": "dc05618e-61e8-458c-9356-3f42763c10cb",
-                "resourcePath": "scripts\/scrSpawnIntern\/scrSpawnIntern.yy",
+                "resourcePath": "scripts\\scrSpawnInterns\\scrSpawnInterns.yy",
                 "resourceType": "GMScript"
             }
         },

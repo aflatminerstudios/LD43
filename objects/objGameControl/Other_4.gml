@@ -7,3 +7,4 @@ scrPopulateGridFromRoom();
 with (objEntrance) {
   grid = other.grid;
 }
+scrSpawnInterns();

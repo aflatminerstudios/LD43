@@ -1,4 +1,4 @@
-///scrSpawnIntern()
+///scrSpawnInterns()
 
 
 with (objEntrance) {
