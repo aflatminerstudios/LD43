@@ -25,3 +25,8 @@ if(oldIsDeactivated != newIsDeactivated) {
 }
 
 self.isDeactivated = newIsDeactivated;
+
+if(self.isDeactivated)
+	currentKillChance = 0;
+else
+	currentKillChance = killChance;

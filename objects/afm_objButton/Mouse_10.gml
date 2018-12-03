@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-if(allowSlideOver) {	
+if(allowSlideIn) {	
 	/// If mouse is down, start pressed state and run pressedScript
 	if(mouse_check_button(mb_any)) {
 	  if(!isPressed) {

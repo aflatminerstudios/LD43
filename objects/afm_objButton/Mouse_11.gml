@@ -5,10 +5,14 @@
 /// Stop pressed state and don't activate any scripts
 if(isPressed) {
   isPressed = false;
+		
   if(unpressedSound != noone) {
     if(useSoundVariance)
       afm_scrPlaySoundWithRandomVarianceInRange(unpressedSound, minSoundVariance, maxSoundVariance);
     else
       afm_scrPlaySoundWithVariance(unpressedSound, 1.0);
   }
+	
+	if(shouldSlideOutActivateUnpressedScript)
+		script_execute(unpressedScript);
 }
