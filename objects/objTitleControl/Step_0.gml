@@ -37,3 +37,5 @@ if(self.isScrolling) {
 		self.scrollTime--;
 
 }
+
+
