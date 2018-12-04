@@ -1,3 +1,3 @@
 ///scrNextLevel()
 
-scrGoToLevel(objScoreKeeper.currentLevel + 1);
+scrGoToLevel(objScoreKeeper.currentWorld, objScoreKeeper.currentLevel + 1);

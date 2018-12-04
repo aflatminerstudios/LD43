@@ -7,9 +7,7 @@ var newY = argument2;
 
 
 with (intern) {
-  if (walking && grid[newX, newY].object_index == objPathStop) {
-    show_debug_message("Quitting function");
-    show_debug_message(self.id);
+  if (walking && grid[newX, newY].object_index == objPathStop) {    
     return;
   }
       
