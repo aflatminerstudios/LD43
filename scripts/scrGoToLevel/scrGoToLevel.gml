@@ -5,9 +5,9 @@ var level = argument1;
 
 var levelArray = [roomLevelG1L1, roomLevelG1L2, roomLevelG1L3, roomLevelG1L4, roomLevelG1L5, roomLevelG2L1, roomLevelG2L2, roomLevelG2L3, roomLevelG2L4, roomLevelG2L5, roomLevelG3L1, roomLevelG3L2, roomLevelG3L3, roomLevelG3L4, roomLevelG3L5];
 
-var bottomScores = [3, 5, 2, 3, 4, 1, 3, 4, 3, 4, 4, 7, 6, 10, 3];
+var bottomScores = [3, 5, 2, 3, 4, 1, 4, 5, 3, 4, 4, 7, 6, 10, 3];
 
-var topScores = [8, 10, 7, 8, 8, 3, 8, 9, 8, 9, 9, 15, 12, 20, 8];
+var topScores = [8, 10, 7, 8, 8, 4, 8, 9, 8, 9, 9, 15, 12, 20, 8];
 
 if (level > 4) {  
   room_goto(roomLevelSelect);
