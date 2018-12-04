@@ -1058,7 +1058,7 @@
             "Key": "83fcf8f2-7fbb-45da-ba4e-beecc6d4d071",
             "Value": {
                 "id": "f23523c6-1507-4abb-b607-f6bc4abcef38",
-                "resourcePath": "rooms\\roomLevelG4L4\\roomLevelG4L4.yy",
+                "resourcePath": "rooms\\roomLevelG3L4\\roomLevelG3L4.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1586,7 +1586,7 @@
             "Key": "bd8fe476-ca03-46c1-b8dc-a0c11e8a090c",
             "Value": {
                 "id": "0c0c1db1-47d6-4e62-95a7-9bcc8096438a",
-                "resourcePath": "rooms\\roomLevelG5L5\\roomLevelG5L5.yy",
+                "resourcePath": "rooms\\roomLevelG3L5\\roomLevelG3L5.yy",
                 "resourceType": "GMRoom"
             }
         },
