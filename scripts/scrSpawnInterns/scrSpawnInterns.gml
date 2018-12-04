@@ -16,5 +16,7 @@ with (objEntrance) {
 }
 
 with (objIntern) {
-  alarm[0] = 1; 
+  if (!walking) {
+    alarm[0] = 1; 
+  }
 }
