@@ -72,10 +72,12 @@
             "name": "Foreground",
             "id": "2a2644a4-3c73-4ea3-8619-02e041af4f87",
             "assets": [
-{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_20DF9DF9","id": "03a5313a-1f9a-4ef9-bc07-4e719ab1c01d","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": true,"m_originalParentID": "072586b0-8f4a-43d1-bd96-143a996b9ec2","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f4c3149b-391a-41a9-aed0-a79906a794c0","userdefined_animFPS": false,"x": 0,"y": 0},
-{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_62762B0D","id": "31de61ae-a730-4341-bd80-8e5d999a79bd","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": true,"m_originalParentID": "c3065418-61f7-43a9-b8af-a688fc837fe4","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 270,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f4c3149b-391a-41a9-aed0-a79906a794c0","userdefined_animFPS": false,"x": 800,"y": 0},
-{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_1E088FB4","id": "05d23a12-77bc-4255-983e-64471d88e066","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": true,"m_originalParentID": "89df7313-8530-42a2-9ddf-92ecb3b7fc2c","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 180,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f4c3149b-391a-41a9-aed0-a79906a794c0","userdefined_animFPS": false,"x": 800,"y": 600},
-{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_4D7B8FA6","id": "7b2fe174-c40f-453c-afe2-d8e38c5cedfc","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": true,"m_originalParentID": "5d3c6422-36e3-4d37-ab1c-ddf59fa9479b","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 90,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f4c3149b-391a-41a9-aed0-a79906a794c0","userdefined_animFPS": false,"x": 0,"y": 600}
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_6A6E8FA9","id": "f52b310d-eb62-4905-a5da-2e8c1bac4214","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": true,"inheritItemSettings": true,"m_originalParentID": "aeba9547-23a5-454d-8e00-32e813a794e3","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f7d90d09-7cd4-4d46-8e5d-7bcbf2c19e5f","userdefined_animFPS": false,"x": 0,"y": 0},
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_20DF9DF9","id": "03a5313a-1f9a-4ef9-bc07-4e719ab1c01d","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": true,"inheritItemSettings": true,"m_originalParentID": "072586b0-8f4a-43d1-bd96-143a996b9ec2","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f4c3149b-391a-41a9-aed0-a79906a794c0","userdefined_animFPS": false,"x": 0,"y": 0},
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_62762B0D","id": "31de61ae-a730-4341-bd80-8e5d999a79bd","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": true,"inheritItemSettings": true,"m_originalParentID": "c3065418-61f7-43a9-b8af-a688fc837fe4","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 270,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f4c3149b-391a-41a9-aed0-a79906a794c0","userdefined_animFPS": false,"x": 800,"y": 0},
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_1E088FB4","id": "05d23a12-77bc-4255-983e-64471d88e066","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": true,"inheritItemSettings": true,"m_originalParentID": "89df7313-8530-42a2-9ddf-92ecb3b7fc2c","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 180,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f4c3149b-391a-41a9-aed0-a79906a794c0","userdefined_animFPS": false,"x": 800,"y": 600},
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_4D7B8FA6","id": "7b2fe174-c40f-453c-afe2-d8e38c5cedfc","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": true,"inheritItemSettings": true,"m_originalParentID": "5d3c6422-36e3-4d37-ab1c-ddf59fa9479b","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 90,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "f4c3149b-391a-41a9-aed0-a79906a794c0","userdefined_animFPS": false,"x": 0,"y": 600},
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_7CC6C601","id": "355d9ff5-f6c5-4150-b44e-e2662d027a1a","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "5f7294b7-b46a-4e1e-bf0a-e8f78cf56574","userdefined_animFPS": false,"x": 0,"y": 0}
             ],
             "depth": 200,
             "grid_x": 32,
@@ -189,7 +191,7 @@
             "hspeed": 0,
             "htiled": false,
             "inheritLayerDepth": true,
-            "inheritLayerSettings": true,
+            "inheritLayerSettings": false,
             "inheritSubLayers": true,
             "inheritVisibility": true,
             "layers": [
@@ -199,7 +201,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "f7d79523-dfe5-400b-aeb6-cd45138be819",
+            "spriteId": "6fc669be-7616-41dd-8f5c-4b643a6996ce",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
