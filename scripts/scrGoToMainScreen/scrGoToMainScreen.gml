@@ -1,1 +1,1 @@
-room_goto(roomLevelSelect);
+room_goto(roomStoryBreak);

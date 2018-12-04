@@ -10,7 +10,7 @@ var bottomScores = [3, 5, 2, 3, 4, 1, 3, 4, 3, 4, 4, 7, 6, 10, 3];
 var topScores = [8, 10, 7, 8, 8, 3, 8, 9, 8, 9, 9, 15, 12, 20, 8];
 
 if (level > 4) {  
-  room_goto(roomTitle);
+  room_goto(roomLevelSelect);
 } else {
 
   with (objScoreKeeper) {
