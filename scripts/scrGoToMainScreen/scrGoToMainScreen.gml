@@ -1,1 +1,1 @@
-scrGoToLevel(0);
+room_goto(roomLevelSelect);

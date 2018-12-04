@@ -37,35 +37,3 @@ if(self.isScrolling) {
 		self.scrollTime--;
 
 }
-
-
-if (keyboard_check_pressed(ord("1"))) {
-  scrGoToLevel(0); 
-}
-if (keyboard_check_pressed(ord("2"))) {
-  scrGoToLevel(1); 
-}
-if (keyboard_check_pressed(ord("3"))) {
-  scrGoToLevel(2); 
-}
-if (keyboard_check_pressed(ord("4"))) {
-  scrGoToLevel(3); 
-}
-if (keyboard_check_pressed(ord("5"))) {
-  scrGoToLevel(4); 
-}
-if (keyboard_check_pressed(ord("6"))) {
-  scrGoToLevel(5); 
-}
-if (keyboard_check_pressed(ord("7"))) {
-  scrGoToLevel(6); 
-}
-if (keyboard_check_pressed(ord("8"))) {
-  scrGoToLevel(7); 
-}
-if (keyboard_check_pressed(ord("9"))) {
-  scrGoToLevel(8); 
-}
-if (keyboard_check_pressed(ord("0"))) {
-  scrGoToLevel(9); 
-}
