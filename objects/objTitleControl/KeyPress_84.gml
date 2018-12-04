@@ -1,3 +1,3 @@
 /// @description  Goto Micha's test room
 
-room_goto(roomMichaTest);
+scrGoToLevel(1, 4)
