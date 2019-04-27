@@ -1,14 +1,16 @@
 {
     "id": "789db1af-1e5c-4941-a1ad-9a6698dacee0",
     "modelName": "GMFont",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "fontGameOverLarge",
     "AntiAlias": 1,
     "TTFName": "",
+    "ascenderOffset": 0,
     "bold": false,
     "charset": 0,
     "first": 0,
     "fontName": "Cartoon Marker",
+    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1436,8 +1438,9 @@
             }
         }
     ],
-    "image": null,
+    "hinting": 0,
     "includeTTF": false,
+    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         {
@@ -75970,6 +75973,8 @@
         }
     ],
     "last": 0,
+    "maintainGms1Font": false,
+    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,
